@@ -1,0 +1,13 @@
+{
+  "main.css": "/kafqa-counterapp/static/css/main.f5a448de.chunk.css",
+  "main.js": "/kafqa-counterapp/static/js/main.53469e96.chunk.js",
+  "main.js.map": "/kafqa-counterapp/static/js/main.53469e96.chunk.js.map",
+  "static/js/1.1b1128aa.chunk.js": "/kafqa-counterapp/static/js/1.1b1128aa.chunk.js",
+  "static/js/1.1b1128aa.chunk.js.map": "/kafqa-counterapp/static/js/1.1b1128aa.chunk.js.map",
+  "runtime~main.js": "/kafqa-counterapp/static/js/runtime~main.135d44e0.js",
+  "runtime~main.js.map": "/kafqa-counterapp/static/js/runtime~main.135d44e0.js.map",
+  "static/css/main.f5a448de.chunk.css.map": "/kafqa-counterapp/static/css/main.f5a448de.chunk.css.map",
+  "index.html": "/kafqa-counterapp/index.html",
+  "precache-manifest.83e09805fd22b5d8896254174163b43a.js": "/kafqa-counterapp/precache-manifest.83e09805fd22b5d8896254174163b43a.js",
+  "service-worker.js": "/kafqa-counterapp/service-worker.js"
+}
